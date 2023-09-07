@@ -1,0 +1,21 @@
+nav ul {
+  display: flex;
+  list-style: none;
+  float: right;
+}
+
+nav li {
+  color: black;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+.hire_me {
+  color: white;
+  background-color: #fd6e0a;
+}
